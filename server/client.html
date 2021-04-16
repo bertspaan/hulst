@@ -25,9 +25,10 @@
             let msg = event.data
             console.log('<<RECV', msg)
             let data = JSON.parse(msg)
-            updated(data)
+            if (data.GEOJSON) {
+                updated(data.GEOJSON)
+            }
         }
-
         function sendTest(obj) {
             if (socket.readyState == WebSocket.OPEN) {
                 console.log('>>SEND', obj)
