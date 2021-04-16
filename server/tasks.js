@@ -13,7 +13,7 @@ function timestamp() {
 }
 
 function flush_to_disk(extra) {
-    fs.writeFileSync('../tasks.geojson', JSON.stringify(tasks))
+    fs.writeFileSync('../tasks.geojson', JSON.stringify(tasks, null, 2))
 }
 
 function on_update(handler) {
