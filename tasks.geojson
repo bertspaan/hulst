@@ -1,0 +1,2242 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.878738,
+          52.433585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.878778,
+          52.433468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opruimen en kloven"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.87905,
+          52.433405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.880012,
+          52.432404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879796,
+          52.432399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879516,
+          52.432425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879412,
+          52.432464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879409,
+          52.432461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879528,
+          52.432411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879386,
+          52.432325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879301,
+          52.432295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879289,
+          52.432275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.87924,
+          52.432244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879214,
+          52.432281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879185,
+          52.432267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879124,
+          52.432304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8791,
+          52.432305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879093,
+          52.432306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.87909,
+          52.432344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879064,
+          52.432426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879073,
+          52.432413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879066,
+          52.432432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879024,
+          52.432445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879057,
+          52.432356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879062,
+          52.432304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879007,
+          52.432254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.87899,
+          52.432231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.878998,
+          52.432215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879133,
+          52.432206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879139,
+          52.432201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879212,
+          52.432211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879321,
+          52.432255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879365,
+          52.432206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879491,
+          52.432175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879533,
+          52.432128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879446,
+          52.432071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879419,
+          52.432056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.87938,
+          52.432083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879263,
+          52.432044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879211,
+          52.432028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879186,
+          52.431964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879136,
+          52.431945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879175,
+          52.431931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.87915,
+          52.431908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879164,
+          52.431895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879236,
+          52.431925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879303,
+          52.431915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879311,
+          52.43189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879316,
+          52.431874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879359,
+          52.43188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879385,
+          52.431893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879466,
+          52.431908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879511,
+          52.431981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879544,
+          52.432009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879476,
+          52.432101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879478,
+          52.43212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879556,
+          52.43214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boom opruimen, pad vrijmaken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879654,
+          52.432215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boom weghalen, pad vrijmaken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879808,
+          52.432078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879827,
+          52.43206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879739,
+          52.431911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879702,
+          52.431916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Traptreden vrijmaken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879781,
+          52.431871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879705,
+          52.431872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879766,
+          52.43154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pad vrijmaken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879899,
+          52.431491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.880056,
+          52.431336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.880497,
+          52.4316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.880523,
+          52.431699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.88049,
+          52.431719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.880842,
+          52.431582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.880962,
+          52.431606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.881005,
+          52.431708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.881015,
+          52.431695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.881016,
+          52.431528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.881207,
+          52.431576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.881204,
+          52.431567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.88118,
+          52.431588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.881134,
+          52.431601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.88107,
+          52.431641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.880986,
+          52.431757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.881057,
+          52.431798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.881089,
+          52.431821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.88112,
+          52.431853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.88116,
+          52.431884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.881191,
+          52.431896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.881225,
+          52.431899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.881245,
+          52.431881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.881231,
+          52.431887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.881187,
+          52.431927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.881167,
+          52.431928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.881096,
+          52.431924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.881059,
+          52.431925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.881047,
+          52.431924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.88104,
+          52.43187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.881044,
+          52.431871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.881017,
+          52.431872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.880983,
+          52.431868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.880933,
+          52.431877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.880909,
+          52.431896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.880964,
+          52.431903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.880894,
+          52.431961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.880838,
+          52.432003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.880764,
+          52.432104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opruimen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.88073,
+          52.432238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opruimen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.880872,
+          52.432244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.881064,
+          52.432087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.881062,
+          52.432082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.881028,
+          52.43211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.881475,
+          52.432278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.881597,
+          52.432136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.881523,
+          52.432154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.881649,
+          52.432112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.881653,
+          52.432109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.88171,
+          52.432115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jeneverbes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.881989,
+          52.432776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.882115,
+          52.432754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.882149,
+          52.43276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vrijmaken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.882113,
+          52.432832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opruimen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.882269,
+          52.43301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.882166,
+          52.433592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.882394,
+          52.433667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.88244,
+          52.433878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.882515,
+          52.434008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.882538,
+          52.43406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.88253,
+          52.434114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.882477,
+          52.434135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.882607,
+          52.434204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.882607,
+          52.434216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.882634,
+          52.434208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.882667,
+          52.434184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.882667,
+          52.434204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.882681,
+          52.434234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.882595,
+          52.434375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.88248,
+          52.434241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hout pakken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.88261,
+          52.43446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.882645,
+          52.434569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zagen hout pakken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.881448,
+          52.434896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.88012,
+          52.434678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jeneverbes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.878919,
+          52.434859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boompjes trekken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.878971,
+          52.434796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boompjes trekken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879033,
+          52.434742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jeneverbes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.878867,
+          52.434762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boompjes trekken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.87833,
+          52.434876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boompjes trekken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.878149,
+          52.434923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boompjes trekken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.878109,
+          52.434885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jeneverbes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.878094,
+          52.434707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boompjes trekken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.87822,
+          52.434704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boompjes trekken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.878383,
+          52.434668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boompjes trekken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.878561,
+          52.434644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boompjes trekken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.878653,
+          52.434575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boompjes trekken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.878635,
+          52.434451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boompjes trekken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.878544,
+          52.434426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boompjes trekken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.878415,
+          52.434346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.878527,
+          52.434278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.878557,
+          52.434283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.87869,
+          52.434369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.878708,
+          52.434293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.87872,
+          52.43425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.87872,
+          52.434207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.878836,
+          52.43411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.878932,
+          52.434052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879008,
+          52.434032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zagen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879257,
+          52.433899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zagen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879284,
+          52.433826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zagen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.87923,
+          52.43376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zagen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879202,
+          52.433692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zagen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.879139,
+          52.433679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paadje aanleggen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.880365,
+          52.433723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.880667,
+          52.433988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.880717,
+          52.434015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soep maken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.880437,
+          52.434021
+        ]
+      }
+    }
+  ]
+}
+
