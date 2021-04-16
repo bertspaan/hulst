@@ -19,9 +19,8 @@ wss.on('connection', function connection(ws) {
       }
 
     } catch (error) {
-      console.log('ERROR maar niet erg', error)
+      console.log('MESSAGE', message)
     }
-    console.log('received: %s', message);
   });
 
   Tasks.on_update((geoJson) => {
