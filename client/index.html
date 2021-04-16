@@ -64,13 +64,14 @@
     <div id="map"></div>
     <script>
       const map = L.map('map', {
-        maxZoom: 19,
+        maxZoom: 22,
       }).setView([52.43392, 6.88037], 17)
 
       const tileUrl = 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}'
 
       L.tileLayer(tileUrl, {
-        maxZoom: 19
+        maxZoom: 22,
+        maxNativeZoom: 19
       }).addTo(map)
 
       function taskColor (feature) {
@@ -112,17 +113,17 @@
         onEachFeature: onEachFeature,
         pointToLayer: function (feature, latlng) {
           return L.circleMarker(latlng, {
-            radius: 6,
+            radius: 8,
             fillColor: taskColor(feature),
             color: '#000',
             weight: 1,
-            opacity: 1,
-            fillOpacity: feature.properties.done ? 0.1 : 1
+            opacity: 0.5,
+            fillOpacity: feature.properties.done ? 0.1 : 0.9
           })
         }
       }).addTo(map)
 
-      const socket = new WebSocket('ws://localhost:8080')
+      const socket = new WebSocket('ws://167.172.41.185')
 
       socket.onopen = function (event) {
         socket.send('gold')
