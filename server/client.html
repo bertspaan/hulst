@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .test {
+            text-decoration: underline;
+            color: red;
+        }
+    </style>
+</head>
+
+<body>
+    <script>
+        const socket = new WebSocket('ws://localhost:8080');
+
+        socket.onopen = function (event) {
+            socket.send('gold')
+        }
+        socket.onmessage = function (event) {
+            let msg = event.data
+            console.log('<<RECV', msg)
+            let data = JSON.parse(msg)
+            updated(data)
+        }
+
+        function sendTest(obj) {
+            if (socket.readyState == WebSocket.OPEN) {
+                console.log('>>SEND', obj)
+                socket.send(JSON.stringify(obj))
+            }
+        }
+
+        function updated(data) {
+            // hier kaart updaten
+        }
+    </script>
+
+    <span class="test" onclick="sendTest({hi:123})">test</span>
+</body>
+
+</html>
