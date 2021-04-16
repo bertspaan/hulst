@@ -29,19 +29,28 @@
                 updated(data.GEOJSON)
             }
         }
-        function sendTest(obj) {
+
+    function sendUpdate(nummer, done) {
             if (socket.readyState == WebSocket.OPEN) {
+                let obj = {
+                    TASKUPDATE: {
+                        nummer, done
+                    }
+                }
                 console.log('>>SEND', obj)
                 socket.send(JSON.stringify(obj))
             }
         }
 
         function updated(data) {
+            document.getElementById('geojson').innerHTML = `<pre wrap>${JSON.stringify(data)}</pre>`
             // hier kaart updaten
         }
     </script>
 
-    <span class="test" onclick="sendTest({hi:123})">test</span>
+    <span class="test" onclick="sendUpdate(0, true)">done 1</span><br />
+    <span class="test" onclick="sendUpdate(0, false)">undone 1</span>
+    <pre id="geojson"></pre>
 </body>
 
 </html>

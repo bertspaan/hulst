@@ -12,8 +12,10 @@ wss.on('connection', function connection(ws) {
       console.log('SERV_RECV', m)
 
       // taak update
-      if (m.update) {
-
+      if (m.TASKUPDATE) {
+        let { nummer, done } = m.TASKUPDATE
+        console.log('DO UPDATE', nummer, done)
+        Tasks.update_task(nummer, done)
       }
 
     } catch (error) {
@@ -21,6 +23,10 @@ wss.on('connection', function connection(ws) {
     }
     console.log('received: %s', message);
   });
+
+  Tasks.on_update((geoJson) => {
+    ws.send(JSON.stringify({ GEOJSON: geoJson }));
+  })
 
   ws.send(JSON.stringify({ GEOJSON: Tasks.tasks }));
 });
