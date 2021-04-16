@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="nl-NL">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Hulst</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+      integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+      crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+      integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+      crossorigin=""></script>
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css">
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@0.73.0/dist/L.Control.Locate.min.css" />
+
+      <script src="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@0.73.0/dist/L.Control.Locate.min.js" charset="utf-8"></script>
+
+    <style>
+      body {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        height: 100%;
+        font-size: 18px;
+      }
+
+      #map {
+        position: absolute;
+        top: 0;
+        width: 100%;
+        height: 100%;
+      }
+
+      img.hulst {
+        position: absolute;
+        padding: 10px;
+        width: 80px;
+        z-index: 999;
+      }
+
+      .leaflet-popup-content-wrapper {
+        border-radius: 4px;
+      }
+
+      .leaflet-popup-content {
+        font-size: 18px;
+        margin: 13px 16px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      .leaflet-popup-content > button {
+        margin-top: 5px;
+        font-size: 18px;
+      }
+    </style>
+  </head>
+  <body>
+    <img class="hulst" src="hulstweekend.svg" />
+    <div id="map"></div>
+    <script>
+      const map = L.map('map', {
+        maxZoom: 19,
+      }).setView([52.43392, 6.88037], 17)
+
+      const tileUrl = 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}'
+
+      L.tileLayer(tileUrl, {
+        maxZoom: 19
+      }).addTo(map)
+
+      function taskColor (feature) {
+        const name = feature.properties.name
+        if (name === 'Hulst') {
+          return 'red'
+        } else if (name === 'Boompjes trekken') {
+          return '#73fc03'
+        } else if (name === 'Zagen') {
+          return '#d931f7'
+        } else {
+          return '#fcc603'
+        }
+      }
+
+      function onEachFeature (feature, layer) {
+        const done = feature.properties.done
+        const text = done ? 'Toch niet 🤪' : 'Klaar 🚜'
+
+        const html = `
+          <div>${feature.properties.name}</div>
+          ${feature.properties.description ? `<div>${feature.properties.description}</div>` : ''}
+          <button onclick="sendUpdate(${feature.index}, ${!done})">${text}</button>`
+
+        layer.bindPopup(html)
+      }
+
+      const locate = L.control.locate({
+        drawCircle: false,
+        showPopup: false
+      }).addTo(map)
+
+      locate.start()
+
+      const taskLayer = L.geoJSON({
+        type: 'FeatureCollection',
+        features: []
+      }, {
+        onEachFeature: onEachFeature,
+        pointToLayer: function (feature, latlng) {
+          return L.circleMarker(latlng, {
+            radius: 6,
+            fillColor: taskColor(feature),
+            color: '#000',
+            weight: 1,
+            opacity: 1,
+            fillOpacity: feature.properties.done ? 0.1 : 1
+          })
+        }
+      }).addTo(map)
+
+      const socket = new WebSocket('ws://localhost:8080')
+
+      socket.onopen = function (event) {
+        socket.send('gold')
+      }
+
+      socket.onmessage = function (event) {
+        let msg = event.data
+        let data = JSON.parse(msg)
+        if (data.GEOJSON) {
+          updated(data.GEOJSON)
+        }
+      }
+
+      function sendUpdate(nummer, done) {
+        if (socket.readyState == WebSocket.OPEN) {
+          let obj = {
+            TASKUPDATE: {
+              nummer, done
+            }
+          }
+          socket.send(JSON.stringify(obj))
+        }
+      }
+
+      function updated(data) {
+        taskLayer.clearLayers()
+        taskLayer.addData(data)
+      }
+    </script>
+  </body>
+</html>
